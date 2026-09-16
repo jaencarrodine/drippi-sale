@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApiResponse Status="OK" xmlns="http://api.namecheap.com/xml.response">
+  <Errors />
+  <Warnings />
+  <RequestedCommand>namecheap.domains.dns.gethosts</RequestedCommand>
+  <CommandResponse Type="namecheap.domains.dns.getHosts">
+    <DomainDNSGetHostsResult Domain="drippi.ai" EmailType="MX" IsUsingOurDNS="true">
+      <host HostId="316080553" Name="@" Type="A" Address="52.223.52.2" MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="323204294" Name="@" Type="A" Address="35.71.142.77" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="322940369" Name="app" Type="A" Address="76.76.21.21" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="343593539" Name="billing" Type="A" Address="37.16.25.177" MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="323204448" Name="drippi.ai" Type="A" Address="35.71.142.77" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="323204451" Name="drippi.ai" Type="A" Address="52.223.52.2" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="331196893" Name="33822351" Type="CNAME" Address="sendgrid.net." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="429826461" Name="51202049.www.start.drippi.ai" Type="CNAME" Address="links.clickfunnels.email." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="375061763" Name="auth" Type="CNAME" Address="cname.vercel-dns.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="331827386" Name="autodm" Type="CNAME" Address="cname.vercel-dns.com." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="334867315" Name="ava5xl77fdn2icfijn4yhua5u6aarjcx._domainkey.hey" Type="CNAME" Address="ava5xl77fdn2icfijn4yhua5u6aarjcx.dkim.amazonses.com." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="429826441" Name="cflinks.www.start.drippi.ai" Type="CNAME" Address="links.clickfunnels.email." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="429826419" Name="cfmail.www.start.drippi.ai" Type="CNAME" Address="mx.clickfunnels.email." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="334867321" Name="cjscxaxgvzasubjr6nq4hnoy4lp5by44._domainkey.hey" Type="CNAME" Address="cjscxaxgvzasubjr6nq4hnoy4lp5by44.dkim.amazonses.com." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="343593834" Name="ck-bounces" Type="CNAME" Address="pm.mtasv.net." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="331196985" Name="em9252" Type="CNAME" Address="u33822351.wl102.sendgrid.net." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="331688127" Name="free-auto-dm" Type="CNAME" Address="cname.vercel-dns.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="458681839" Name="fw" Type="CNAME" Address="proxy-fallback.flywheel.cx." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="459116210" Name="fw" Type="CNAME" Address="gateway.flywheel.cx." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="334867337" Name="lm5l7ptyaz37ox74zng4z3dl6gt4zidl._domainkey.hey" Type="CNAME" Address="lm5l7ptyaz37ox74zng4z3dl6gt4zidl.dkim.amazonses.com." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="331197106" Name="s1._domainkey" Type="CNAME" Address="s1.domainkey.u33822351.wl102.sendgrid.net." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="331197171" Name="s2._domainkey" Type="CNAME" Address="s2.domainkey.u33822351.wl102.sendgrid.net." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="422178369" Name="start" Type="CNAME" Address="target.clickfunnels.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="381380749" Name="t" Type="CNAME" Address="204445.edge.hyros.com." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="381132018" Name="t.drippi.ai" Type="CNAME" Address="204445.edge.hyros.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="331196832" Name="url1403" Type="CNAME" Address="sendgrid.net." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="316080586" Name="www" Type="CNAME" Address="sites.framer.app." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="322943878" Name="www.app" Type="CNAME" Address="cname.vercel-dns.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="336170766" Name="@" Type="MX" Address="ASPMX.L.GOOGLE.COM." MXPref="1" TTL="1799" AssociatedAppTitle="" FriendlyName="MX1" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="336170769" Name="@" Type="MX" Address="ALT1.ASPMX.L.GOOGLE.COM." MXPref="5" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="336170770" Name="@" Type="MX" Address="ALT2.ASPMX.L.GOOGLE.COM." MXPref="5" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="336170771" Name="@" Type="MX" Address="ALT3.ASPMX.L.GOOGLE.COM." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="336170772" Name="@" Type="MX" Address="ALT4.ASPMX.L.GOOGLE.COM." MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="474758045" Name="send" Type="MX" Address="feedback-smtp.us-east-1.amazonses.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="MX1" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="405721498" Name="send.cs" Type="MX" Address="feedback-smtp.us-east-1.amazonses.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="459201831" Name="send.email" Type="MX" Address="feedback-smtp.us-east-1.amazonses.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="474582891" Name="send.hey" Type="MX" Address="feedback-smtp.us-east-1.amazonses.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="492304245" Name="send.tx" Type="MX" Address="feedback-smtp.us-east-1.amazonses.com." MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="324493535" Name="@" Type="TXT" Address="google-site-verification=GxYRYCPrP281tTdlxXBFBgxUreAYt07qCDfvMDRuu7s" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="325273165" Name="@" Type="TXT" Address="google-site-verification=c-7vq0a6Cdl3ZiXqgedZeNYBeKroomgP7aVW3PHAGao" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="343525716" Name="@" Type="TXT" Address="v=spf1 a include:_spf.google.com ~all" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="394337737" Name="@" Type="TXT" Address="pinterest-site-verification=bb37e3285f1dc89e0bf1b5e2bc4dd9a4" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="459116225" Name="_cf-custom-hostname.fw" Type="TXT" Address="7dd2e550-b749-43af-9a5d-6259000f5b20" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="474758952" Name="_dmarc" Type="TXT" Address="v=DMARC1; p=none;" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="466160606" Name="_dmarc.cs" Type="TXT" Address="v=DMARC1; p=none;" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="459202035" Name="_dmarc.email" Type="TXT" Address="v=DMARC1; p=none;" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="364958385" Name="_dmarc.hey" Type="TXT" Address="v=DMARC1; p=none;" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="492211395" Name="_dmarc.tx" Type="TXT" Address="v=DMARC1; p=none;" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="330231945" Name="20230421155113pm._domainkey" Type="TXT" Address="k=rsa;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpKZyz1TOK6ZICh1EwWVDAgxffCpsd0ebjl0visz6gnpSU0mYOHL8vKuoDdvya2Xl2LbB+GSJReUKb9+nIVEtaHyH6e9cx7Jq8pWaermPTt7Q/5N6LLdtKORpAS6h+zMz/glVkCWULuQP8FdISB1/eou101W6opfuJ5yq2GIvbNwIDAQAB" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="343593767" Name="20230727155119pm._domainkey" Type="TXT" Address="k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCWun5uRLNA9qOFZl102yb/QzbHCKpdb+3+XauGDza3Da+5+3H8NPUI3Pa6v8c7T+0s9n1U+1hDmVobRgfEt5O9vRUI0uEFcIzPI3RBHykhv35DuOG5Zg5us0JN5h9D5awk/zFo692hWzX9Ntaok8QGwreOPzxRuTZF3H4EDCGxrwIDAQAB" MXPref="10" TTL="60" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="343525917" Name="google._domainkey" Type="TXT" Address="v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlwoKxc7iMu0qX4KslMBPPxlg659EGPTiMPfLOcSHxUKI5WSmAXXlDFWbdsjSIbZQfmQWfBjxefHG4bAoamS5eTtqceZpOchvK+al+Z8Z2bJaTT4sBSZpn+Jkl4EyN/lEox90U3aQ71m05QAte/OTUPpgAyaUPq0QpUKdnXF/8VW+0T4Bs5bA7ZMzfCiphcFBviLFvzCG8lfuXEgIzeotcIP68WOvkhw6vjhWN+omQkZiU00RfjehRvt5psSbGwtVmGYojEnaQ7yjDFRiiiPWVvA6njEGURkej8LxD5VbYoNLj4MHAVJy52tk3byVoNZndlpKl/Ix0ub20n3wlLAHqwIDAQAB" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="429826408" Name="m1._domainkey.www.start.drippi.ai" Type="TXT" Address="k=rsa; t=s; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC5TIRcjLTlweSrPKeNxe9ylRjDOiHFdcuaBqzkLI5MWmthGGF22RPcxWXce8zJRSkSjQmREJEegKvKK52/z26v+0vr9ccfzM9iUd6oK1tyHaRc+++YNiLCKShCYrbYMCfTA0zmWiFsYpKygUJcWF8HN9qVwDKUBo2KxHlZJmDHrQIDAQAB" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="474758577" Name="resend._domainkey" Type="TXT" Address="p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDoPIyd/smsdXg8G0Sd3Zuj1X9IrB+xoyi6CAFEyNzKXeAASesBjHzmEd1uMYcSFX322GZmCOGvLVBjHOs6bZuXVvQvOBaD1yciyR92eMdiALS5ozDyoBgTUzVUhsXZgFzDSWevgLFIvWQTW9065GwRmm185cMhhzgyOajMUxGMyQIDAQAB" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="405721595" Name="resend._domainkey.cs" Type="TXT" Address="p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCg2R+ilh1otvRjk762WZml2jjvNYozVCtpBjyaKeGOMFF4qPU4OLjjV3qLni3MQFgEUg3k2E+TEzC6nySovh3TBjVSsCoQ+wDQJK3iYpFdEskz2PlYofJYCmQJURWdGwc3rO3yAkywCnNKhB4yI/Krp0HThPnxq25DE46Zt5QPzQIDAQAB" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="459201998" Name="resend._domainkey.email" Type="TXT" Address="p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDq9Zp+wOughcfSH5Hc4JxmS8Pr2u+HNu11d3g7xpnXZeoCLtuiV+pEJf3Fyc63U3J6DD6EPzzHTDt+X7KUEC3u3prMSJeGXwhfgUQIUt3zNIW5dudjc3uVBfX7NcXS8em0V++VdreMJy0kNMLJzrC4BGdKc2BZlyFxI9Zm6hDPOQIDAQAB" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="474583013" Name="resend._domainkey.hey" Type="TXT" Address="p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCfWoAr8MhQwDRXzUGZu16/An6adfywRlTthLhzNmPUjm69FLDAa9HBeEkIUmYbQtf1+Pm2hn7v5NWGvExdDMqYfFU773Ei01ReK9JGebG9uzG6pcFmGIGMC/0ys/1EyLBFrIKVjfbtau6jEN8vC3Ux36wLNJ2z3H2D9qZXJoo44wIDAQAB" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="492211283" Name="resend._domainkey.tx" Type="TXT" Address="p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDIzIEFLwgxNhNwWgZXJJ5UFrUP7/d0xOq/zVo18csiKk4FwKpulnCCTb+S0W5LbvdOP4FFrKDQi84dPFs6DJ2FNo0oqtH2TToF3u5hwQT0pqF8TBE0S72HsRhuovnaY0azniidLK6+c9RMjalOX9sXTgPnJnDdCWDxDvXHr1C50QIDAQAB" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="474758327" Name="send" Type="TXT" Address="v=spf1 include:amazonses.com ~all" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="405721555" Name="send.cs" Type="TXT" Address="v=spf1 include:amazonses.com ~all" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="459201940" Name="send.email" Type="TXT" Address="v=spf1 include:amazonses.com ~all" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="474582983" Name="send.hey" Type="TXT" Address="v=spf1 include:amazonses.com ~all" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+      <host HostId="492304292" Name="send.tx" Type="TXT" Address="v=spf1 include:amazonses.com ~all" MXPref="10" TTL="1799" AssociatedAppTitle="" FriendlyName="" IsActive="true" IsDDNSEnabled="false" />
+    </DomainDNSGetHostsResult>
+  </CommandResponse>
+  <Server>Server 1360233658</Server>
+  <GMTTimeDifference>--4:00</GMTTimeDifference>
+  <ExecutionTime>0.558</ExecutionTime>
+</ApiResponse>
